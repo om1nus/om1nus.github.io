@@ -1,0 +1,95 @@
+table {
+  font-family: arial, sans-serif;
+  width: 100%;
+  margin-left:0px ;
+  margin-top: 18.785px;
+  background-color: #F6F4F4; 
+  padding-left: 626.785px;
+  padding-right: 626.785px;   
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  color: #CDC9C8;
+}
+
+.logoominus{
+  padding-left: 697.29px;
+  width: 367.6219px;
+  height: 367.6219px;
+  }
+
+body{
+  background: #e4eaf0;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.wrapper{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.searchbox{
+  position: relative;
+}
+
+.searchbox .input{
+  width: 0px;
+  border: 0px;
+  height: 75px;
+  padding: 0px 35px;
+  border-radius: 50px;
+  box-shadow: 0 0 15px 1px #b6bbc0;
+  outline: none;
+  color: #42be11;
+  font-weight: bold;
+  font-size: 24px;
+  transition: all 0.5s linear;
+}
+
+.searchbtn{
+  position: absolute;
+  top: 0;
+  right: -1px;
+  background: #fff;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.5s 0.6s linear;
+}
+
+.searchbtn .fas{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #42be11;
+  font-size: 22px;
+  transition: all 0.5s 0.6s linear;
+}
+
+.searchbtn.bg-green{
+  background: #42be11;
+  transition: all 0.2s linear;
+}
+
+.searchbox .input.active-width{
+  width: 275px;
+}
+
+.gtavfpsthumbnail{
+  width: 552px;
+  height: 347.6814159px;
+  padding-top: 200px;
+  padding-left: 52px;
+}

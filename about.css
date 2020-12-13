@@ -1,0 +1,55 @@
+table {
+    font-family: arial, sans-serif;
+    width: 100%;
+    margin-left:0px ;
+    margin-top: 18.785px;
+    background-color: #F6F4F4; 
+    padding-left: 626.785px;
+    padding-right: 626.785px;   
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: #000000;
+  }
+
+.AboutFontStyle {
+    font-size: 53px;
+    margin-top: 63.767px;
+    font-family: American Captain; 
+    letter-spacing: 1.575231px;
+}
+
+.AboutOminusFontLetter {
+    font-size: 22px;
+    margin-top: 33.623498px;
+    font-family: Janda Manatee Solid; 
+    letter-spacing: 1.275231px;
+}
+
+.line {
+    font-size: 9.82px;
+    margin-top: 33.623498px;
+    font-family: Janda Manatee Solid; 
+    letter-spacing: 1.1px;
+}
+
+.YouTubeChannelLink {
+    font-size: 22px;
+    margin-top: 33.623498px;
+    font-family: Janda Manatee Solid; 
+    letter-spacing: 1.275231px;
+    }
+
+a:hover {
+    color: #CDC9C8;
+    }
+
+.logoominus{
+    padding-left: 697.29px;
+    width: 367.6219px;
+    height: 367.6219px;
+    }
+    body{
+        background: #e4eaf0;
+      }

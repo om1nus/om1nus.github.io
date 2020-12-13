@@ -1,0 +1,59 @@
+body{
+    background: #e4eaf0;
+    margin: 0;
+    padding: 0;
+  }
+
+.pictures{
+    width: 675px;
+    height: 395px;
+    padding-left: 568.775px;
+    margin-top: 46.725px;
+}
+
+.AboutFontStyle {
+    font-size: 53px;
+    margin-top: 63.767px;
+    font-family: American Captain; 
+    letter-spacing: 1.575231px;
+}
+
+.AboutOminusFontLetter {
+    font-size: 22px;
+    margin-top: 33.623498px;
+    font-family: Janda Manatee Solid; 
+    letter-spacing: 1.275231px;
+}
+
+.elrubio {
+    height: 350px;
+    padding-left: 627.775px;
+    margin-top: 20px;
+}
+
+.AboutFontStyles {
+    font-family: Janda Manatee Solid;
+    font-size: 56px;
+}
+
+#respond {
+    margin-top: 40px;
+  }
+  
+  #respond input[type='text'],
+  #respond input[type='email'], 
+  #respond textarea {
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+  
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+  
+    line-height: 1.4em;
+  }
